@@ -1,7 +1,8 @@
 ---
-# Einführung in das Internet
 ---
-# Geschichte des Internet
+# Einführung in das Internet
+
+## Geschichte des Internet
 
 Die Geschichte des Internets kann man in drei Phasen unterscheiden.
 
@@ -27,7 +28,7 @@ Tim Berners-Lee, der britische Physiker und Informatiker gilt als Erfinder des W
 ![](Cern.png)
 Im Laufe der Jahre sind 270 Millionen DNS-Domains mit ca. 1 Milliarden Sites erstellt worden.
 
-# Wie Funktioniert das Internet?
+## Wie Funktioniert das Internet?
 
 Das Internet ist ein weltweites Netzwerk aus Computern und anderen Geräten, die miteinander verbunden sind und Daten austauschen können. Es ermöglicht es Menschen, miteinander zu kommunizieren, Informationen auszutauschen und Ressourcen zu teilen.
 
