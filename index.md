@@ -142,36 +142,36 @@ HTML|Hypertext Markup Language
 [https://whoswho.de/bio/tim-berners-lee.html](https://whoswho.de/bio/tim-berners-lee.html) <br/>
 Abgerufen am 27.1.2023 16:30
 
--	Geschichte des Internets<br/> https://de.wikipedia.org/wiki/Geschichte_des_Internets <br/>
+-	Geschichte des Internets<br/> [https://de.wikipedia.org/wiki/Geschichte_des_Internets](https://de.wikipedia.org/wiki/Geschichte_des_Internets) <br/>
 Abgerufen am 22.1.2023 18:30
 
 -	Internet-Informationen <br/>
-https://de.wikipedia.org/wiki/Internet<br/>
+[https://de.wikipedia.org/wiki/Internet](https://de.wikipedia.org/wiki/Internet)<br/>
 Abgerufen am 27.1.2023 17:30
 
 -	Wie funktioniert das Internet<br/>
-https://www.cloudflare.com/de-de/learning/network-layer/how-does-the-internet-work/<br/>
+[https://www.cloudflare.com/de-de/learning/network-layer/how-does-the-internet-work/](https://www.cloudflare.com/de-de/learning/network-layer/how-does-the-internet-work/)<br/>
 Abgerufen am 28.1.2023 16:00<br/>
 
 -	Was passiert beim Aufrufen einer Website<br/>
-https://www.ionos.de/digitalguide/websites/web-entwicklung/was-passiert-beim-webseitenaufruf/<br/>
+[https://www.ionos.de/digitalguide/websites/web-entwicklung/was-passiert-beim-webseitenaufruf/](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-passiert-beim-webseitenaufruf/)<br/>
 Abgerufen am 25.1.2023 17:30<br/>
 
 -	Wie hat sich das Internet verändert<br/>
-https://www.fairrank.de/blog/1969-2019-wie-sich-das-internet-veraendert-hat/<br/>
+[https://www.fairrank.de/blog/1969-2019-wie-sich-das-internet-veraendert-hat/](https://www.fairrank.de/blog/1969-2019-wie-sich-das-internet-veraendert-hat/)<br/>
 Abgerufen am 26.1.2023 18:00<br/>
 
--	Anzahl der Server im Internet<br/> https://news.netcraft.com/archives/2023/01/27/january-2023-web-server-survey.html<br/>
+-	Anzahl der Server im Internet<br/> [https://news.netcraft.com/archives/2023/01/27/january-2023-web-server-survey.html](https://news.netcraft.com/archives/2023/01/27/january-2023-web-server-survey.html)<br/>
  Abgerufen am 29.1.2023 15:20<br/>
 
 -	3 Säulen des Internets <br/>
-https://www.einfache-internetseiten.de/kurze-geschichte-des-internets/<br/>
+[https://www.einfache-internetseiten.de/kurze-geschichte-des-internets/](https://www.einfache-internetseiten.de/kurze-geschichte-des-internets/)<br/>
 Abgerufen am 29.1.2023 16:00<br/>
 
 -	Netz der Server <br/>
-https://www.youtube.com/watch?v=uIZh2v7YpP4<br/>
+[https://www.youtube.com/watch?v=uIZh2v7YpP4](https://www.youtube.com/watch?v=uIZh2v7YpP4)<br/>
 Abgerufen am 29.1.2023 19:30<br/>
 
 -	Eine kurze Geschichte des Internets<br/>
-https://blog.hubspot.de/marketing/geschichte-des-internets<br/>
+[https://blog.hubspot.de/marketing/geschichte-des-internets](https://blog.hubspot.de/marketing/geschichte-des-internets)<br/>
 Abgerufen am 27.1.2023 17:00<br/>
