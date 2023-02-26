@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
-title: Einführung in das Internet
-description: Nils Curth | Klasse 9c | Realschule Durmersheim
+title: "Einführung in das Internet"
+description: "Nils Curth | Klasse 9c | Realschule Durmersheim"
+
+show_downloads: false
 
 github:
   is_project_page: false 
-  

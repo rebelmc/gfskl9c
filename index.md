@@ -1,9 +1,6 @@
 ---
-Title: Einführung in das Internet
-
+# Einführung in das Internet
 ---
-
-
 # Geschichte des Internet
 
 Die Geschichte des Internets kann man in drei Phasen unterscheiden.
