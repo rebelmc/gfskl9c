@@ -37,6 +37,7 @@ Das Internet funktioniert durch die Verwendung von Protokollen, die die Kommunik
 Ein weiteres wichtiges Protokoll ist das Transmission Control Protocol (TCP), dass die sichere Übertragung von Daten zwischen Geräten gewährleistet, falls einmal Pakete verloren gehen.
 
 ![](Arpanet.png)
+
 Das Internet besteht aus Millionen von einzelnen Netzwerken, die miteinander verbunden sind und durch sogenannte Router gesteuert werden. Router sind Geräte, die Datenpakete von einem Netzwerk zum nächsten weiterleiten, indem sie die Ziel-IP-Adresse in jedem Paket lesen und entscheiden, welcher Weg am besten geeignet ist, um das Paket zu seinem Ziel zu bringen.
 
 Um Daten im Internet über große Entfernungen zu verbreiten, gibt es schnelle Backbone-Netzwerke. In Deutschland sind die meisten Verbindungen über den Internetknoten in Frankfurt an das Backbone Netzwerk angeschlossen.
@@ -45,6 +46,7 @@ Das Netzwerk des Internet wird von verschiedenen Diensten genutzt. Ein paar beka
 
 Heute spricht man oft vom Internet, wenn man eigentlich das World Wide Web meint. Es basiert auf den Erfindungen aus dem Arpanet und von Tim Berners Lee.
 ![](3S%C3%A4ulen%20des%20Internets.png)
+
 Wenn man eine Website im World Wide Web öffnet, werden mehrere Prozesse ausgelöst, um die angeforderte Seite auf Ihrem Computer darzustellen. Hier ist eine kurze Erklärung darüber, wie dieser Prozess im Detail abläuft:
 
 1.	Man gibt die URL (Standard für die Adressierung einer Website im World Wide Web) der gewünschten Website in Ihren Browser ein.
