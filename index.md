@@ -28,7 +28,7 @@ Tim Berners-Lee, der britische Physiker und Informatiker gilt als Erfinder des W
 ![](Cern.png)
 Im Laufe der Jahre sind 270 Millionen DNS-Domains mit ca. 1 Milliarden Sites erstellt worden.
 
-## Wie Funktioniert das Internet?
+## Wie funktioniert das Internet?
 
 Das Internet ist ein weltweites Netzwerk aus Computern und anderen Geräten, die miteinander verbunden sind und Daten austauschen können. Es ermöglicht es Menschen, miteinander zu kommunizieren, Informationen auszutauschen und Ressourcen zu teilen.
 
@@ -46,6 +46,7 @@ Das Netzwerk des Internet wird von verschiedenen Diensten genutzt. Ein paar beka
 Heute spricht man oft vom Internet, wenn man eigentlich das World Wide Web meint. Es basiert auf den Erfindungen aus dem Arpanet und von Tim Berners Lee.
 ![](3S%C3%A4ulen%20des%20Internets.png)
 Wenn man eine Website im World Wide Web öffnet, werden mehrere Prozesse ausgelöst, um die angeforderte Seite auf Ihrem Computer darzustellen. Hier ist eine kurze Erklärung darüber, wie dieser Prozess im Detail abläuft:
+
 1.	Man gibt die URL (Standard für die Adressierung einer Website im World Wide Web) der gewünschten Website in Ihren Browser ein.
 Zum Beispiel: „www.youtube.com“
 
@@ -68,7 +69,7 @@ Zum Beispiel: „www.youtube.com“
 Dieser Prozess läuft in Millisekunden ab, und der Dienst WWW verwendet dabei diverse Protokolle (TCP, IP, HTTP, HTTPS...) die dafür sorgen, dass die Daten sicher und zuverlässig übertragen werden.
 
 
-# Wo Wohnt das Internet?
+## Wo wohnt das Internet?
 Das Internet ist heute ein globaler Netzwerkverbund aus Computern, die miteinander verbunden sind und Daten austauschen können. 
 
 Netzwerke und Routing ermöglichen die Verbindung von Computern und die Übertragung von Daten zwischen ihnen. Eine IP-Adresse ist eine eindeutige – aus vier Zahlen bestehende - Nummer, die jedem Gerät im Internet zugewiesen wird, um es eindeutig identifizieren und kommunizieren zu können.
@@ -84,7 +85,8 @@ Mittlerweile gibt es auch sehr große Anbieter von Diensten im Internet, sogenan
 
 Diese Cloud-Anbieter haben hunderte von Rechenzentren mit Millionen von Servern. Die meisten Websites laufen heute in einem dieser Rechenzentren. In Europa gibt es auch solche großen Server-Betreiber, zum Beispiel die Firma IONOS.
 ![](Serverzentrum.jpg)
-# Wie sieht das Internet heute aus?
+
+## Wie sieht das Internet heute aus?
 Das Internet hat sich in den letzten Jahrzehnten stark weiterentwickelt.
 
 Zum einen ist es größer geworden: Im Laufe der Jahre sind 270 Millionen Domains und ca. 1 Milliarde Sites erstellt worden.
@@ -117,8 +119,7 @@ Dies ermöglicht es Unternehmen, ihre Produkte und Dienstleistungen zu verbesser
 Durch technischen Fortschritt gibt es also immer wieder neue Anwendungen für das Internet. Die eigentlichen Technologien stammen aber immer noch aus den Anfangszeiten des Arpanet und von Tim Berners Lee.
 
 
-# Abkürzungsverzeichnis
-
+## Abkürzungsverzeichnis
 
 
 Abkürzung | Erklärung
@@ -138,7 +139,7 @@ HTML|Hypertext Markup Language
 
 
 
-# Quellenverzeichnis
+## Quellenverzeichnis
 
 -	Tim Bernes-Lee Infos<br/>
 [https://whoswho.de/bio/tim-berners-lee.html](https://whoswho.de/bio/tim-berners-lee.html) <br/>
