@@ -139,7 +139,7 @@ HTML|Hypertext Markup Language
 # Quellenverzeichnis
 
 -	Tim Bernes-Lee Infos<br/>
-https://whoswho.de/bio/tim-berners-lee.html <br/>
+[https://whoswho.de/bio/tim-berners-lee.html](https://whoswho.de/bio/tim-berners-lee.html) <br/>
 Abgerufen am 27.1.2023 16:30
 
 -	Geschichte des Internets<br/> https://de.wikipedia.org/wiki/Geschichte_des_Internets <br/>
