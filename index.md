@@ -1,4 +1,4 @@
-# Gfs Informatik Themen
+# Gfs Nils Curth
 
 # Geschichte des Internet
 
@@ -64,6 +64,8 @@ Zum Beispiel: „www.youtube.com“
 9.	Dann ist die Website fertig und man kann sie anschauen. Wenn man auf einen Link in der Website klickt, geht der Prozess von vorne los.
 
 Dieser Prozess läuft in Millisekunden ab, und der Dienst WWW verwendet dabei diverse Protokolle (TCP, IP, HTTP, HTTPS...) die dafür sorgen, dass die Daten sicher und zuverlässig übertragen werden.
+
+
 # Wo Wohnt das Internet?
 Das Internet ist heute ein globaler Netzwerkverbund aus Computern, die miteinander verbunden sind und Daten austauschen können. 
 
@@ -121,24 +123,55 @@ Abkürzung | Erklärung
 --------|-----
 URL|Uniform Resource Locator
 ARPANet|Advanced Research Projects Agency Network
+TCP|Transmission Control Protocol
+IP|Internet Protocol
+http / https|Hypertext Transfer Protocol/ Hypertext Transfer Protocol Secure
+DNS|Domain Name System
+IoT|Internet of Things
+UUcp|Unix to Unix Copy Protocol
+JUNET|Japan Unix Network
+MILNET|Militärisches Netzwerk
+LAN|Local Area Network
+HTML|Hypertext Markup Language
 
-TCP.....Transmission Control Protocol
 
-IP.....Internet Protocol
 
-http / https.....Hypertext Transfer Protocol/ Hypertext Transfer Protocol Secure
+# Quellenverzeichnis
 
-DNS.....Domain Name System
+-	Tim Bernes-Lee Infos<br/>
+https://whoswho.de/bio/tim-berners-lee.html <br/>
+Abgerufen am 27.1.2023 16:30
 
-IoT.....Internet of Things
+-	Geschichte des Internets<br/> https://de.wikipedia.org/wiki/Geschichte_des_Internets <br/>
+Abgerufen am 22.1.2023 18:30
 
-UUcp.....Unix to Unix Copy Protocol
+-	Internet-Informationen <br/>
+https://de.wikipedia.org/wiki/Internet<br/>
+Abgerufen am 27.1.2023 17:30
 
-JUNET.....Japan Unix Network
+-	Wie funktioniert das Internet<br/>
+https://www.cloudflare.com/de-de/learning/network-layer/how-does-the-internet-work/<br/>
+Abgerufen am 28.1.2023 16:00<br/>
 
-MILNET.....Militärisches Netzwerk
+-	Was passiert beim Aufrufen einer Website<br/>
+https://www.ionos.de/digitalguide/websites/web-entwicklung/was-passiert-beim-webseitenaufruf/<br/>
+Abgerufen am 25.1.2023 17:30<br/>
 
-LAN.....Local Area Network
+-	Wie hat sich das Internet verändert<br/>
+https://www.fairrank.de/blog/1969-2019-wie-sich-das-internet-veraendert-hat/<br/>
+Abgerufen am 26.1.2023 18:00<br/>
 
-HTML.....Hypertext Markup Language
+-	Anzahl der Server im Internet<br/> https://news.netcraft.com/archives/2023/01/27/january-2023-web-server-survey.html<br/>
+ Abgerufen am 29.1.2023 15:20<br/>
 
+-	3 Säulen des Internets <br/>
+https://www.einfache-internetseiten.de/kurze-geschichte-des-internets/<br/>
+Abgerufen am 29.1.2023 16:00<br/>
+
+-	Netz der Server <br/>
+https://www.youtube.com/watch?v=uIZh2v7YpP4<br/>
+Abgerufen am 29.1.2023 19:30<br/>
+
+-	Eine kurze Geschichte des Internets<br/>
+https://blog.hubspot.de/marketing/geschichte-des-internets<br/>
+Abgerufen am 27.1.2023 17:00<br/>
